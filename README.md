@@ -12,7 +12,7 @@ Matrix B: Cell(i,j)=i*j(0-based indices)
 (Matrix C= Matrix A + Matrix B )
 
 Setup Instruction:
-At first i create a Matrix Calculator folder after that i open it on my vs code,
+At first i create a folder after that i open it on my vs code,
 Then i install vite then i install npm packages for Material UI,
 Then Create Components folder under src folder,
 Then i create 3 jsx file under the Components folder,
